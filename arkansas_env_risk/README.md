@@ -2,7 +2,7 @@
 
 **Course:** GIS Programming — Western Michigan University  
 **Semester:** Spring 2026  
-**Author:** [Your Name]
+**Author:** Tangiha Majumder
 
 ---
 
